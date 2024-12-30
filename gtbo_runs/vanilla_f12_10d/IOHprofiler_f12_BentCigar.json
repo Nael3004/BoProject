@@ -1,0 +1,20 @@
+{
+	"version": "0.3.18", 
+	"suite": "unknown_suite", 
+	"function_id": 12, 
+	"function_name": "BentCigar", 
+	"maximization": false, 
+	"algorithm": {"name": "gtbo", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 10,
+		"path": "data_f12_BentCigar/IOHprofiler_f12_DIM10.dat",
+		"runs": [
+			{"instance": 1, "evals": 181, "best": {"evals": 12, "y": 21174408.093233656, "x": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}},
+			{"instance": 1, "evals": 186, "best": {"evals": 20, "y": 21174408.093233656, "x": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}},
+			{"instance": 1, "evals": 148, "best": {"evals": 47, "y": 21502813.140215877, "x": [0, 4.657297297343932, 0, 0, 0, 0, 0, 0, 0, 0]}},
+			{"instance": 1, "evals": 179, "best": {"evals": 20, "y": 21174408.093233656, "x": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}},
+			{"instance": 1, "evals": 121, "best": {"evals": 11, "y": 21174408.093233656, "x": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}}
+		]}
+	]
+}
