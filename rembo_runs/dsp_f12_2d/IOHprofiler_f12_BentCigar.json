@@ -1,0 +1,20 @@
+{
+	"version": "0.3.18", 
+	"suite": "unknown_suite", 
+	"function_id": 12, 
+	"function_name": "BentCigar", 
+	"maximization": false, 
+	"algorithm": {"name": "dsp_rembo", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 2,
+		"path": "data_f12_BentCigar/IOHprofiler_f12_DIM2.dat",
+		"runs": [
+			{"instance": 1, "evals": 20, "best": {"evals": 5, "y": 194053918.39312744, "x": [-1.1349476987102032, 0.1935990984396164]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 151053163.1542723, "x": [0.8124009005241967, 0.37802168281744175]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 124669628.74695909, "x": [0.391462455600463, 0.5111023478714503]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 3, "y": 177986509.866752, "x": [-0.9138399554984419, 0.2564707197435114]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 70749307.60221078, "x": [1.0517607960903264, 0.8939595679748613]}}
+		]}
+	]
+}

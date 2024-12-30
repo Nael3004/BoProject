@@ -1,0 +1,20 @@
+{
+	"version": "0.3.18", 
+	"suite": "unknown_suite", 
+	"function_id": 8, 
+	"function_name": "Rosenbrock", 
+	"maximization": false, 
+	"algorithm": {"name": "dsp_rembo", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 2,
+		"path": "data_f8_Rosenbrock/IOHprofiler_f8_DIM2.dat",
+		"runs": [
+			{"instance": 1, "evals": 20, "best": {"evals": 7, "y": 0.02601574526284609, "x": [0.10605638037338973, -0.022631829491661322]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 14, "y": 0.027198986056097454, "x": [0.08659468847791156, -0.05868274452068701]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 11, "y": 0.11561204884711537, "x": [0.1880825187418554, 0.15119733440880173]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 7, "y": 0.026084919562195427, "x": [0.08212957303498226, -0.06878114352165465]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 20, "y": 0.04656355678045154, "x": [0.07904299270778786, -0.10118732244361915]}}
+		]}
+	]
+}

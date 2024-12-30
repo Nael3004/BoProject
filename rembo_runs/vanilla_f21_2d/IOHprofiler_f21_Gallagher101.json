@@ -1,0 +1,20 @@
+{
+	"version": "0.3.18", 
+	"suite": "unknown_suite", 
+	"function_id": 21, 
+	"function_name": "Gallagher101", 
+	"maximization": false, 
+	"algorithm": {"name": "rembo", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 2,
+		"path": "data_f21_Gallagher101/IOHprofiler_f21_DIM2.dat",
+		"runs": [
+			{"instance": 1, "evals": 20, "best": {"evals": 7, "y": 3.643965511950192, "x": [1.8352526511540352, 0.4364199199244597]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 5, "y": 3.5955196594337986, "x": [1.6119032731508587, 0.2988585814615917]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 7, "y": 3.996475783812598, "x": [-1.0893645340783338, -0.40352471874852874]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 8, "y": 9.066502843794703, "x": [-0.2507867350182412, -0.0279168569793243]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 9.532846511635233, "x": [-0.219103598547085, -0.11357980842400817]}}
+		]}
+	]
+}

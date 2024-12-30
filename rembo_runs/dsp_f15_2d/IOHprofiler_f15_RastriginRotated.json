@@ -1,0 +1,20 @@
+{
+	"version": "0.3.18", 
+	"suite": "unknown_suite", 
+	"function_id": 15, 
+	"function_name": "RastriginRotated", 
+	"maximization": false, 
+	"algorithm": {"name": "dsp_rembo", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 2,
+		"path": "data_f15_RastriginRotated/IOHprofiler_f15_DIM2.dat",
+		"runs": [
+			{"instance": 1, "evals": 20, "best": {"evals": 20, "y": 36.10815042044743, "x": [0.3015272317938476, 0.08311698034054106]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 7, "y": 29.50809033583711, "x": [0.6470169039531843, 0.8123489110877027]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 13, "y": 16.360764032571808, "x": [0.16077156254019084, 0.8014528420828095]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 20, "y": 43.164858569860186, "x": [1.1362918780876736, 0.01494581360159146]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 20, "y": 56.650902569195, "x": [-0.23547069493024245, 0.043432035717742325]}}
+		]}
+	]
+}

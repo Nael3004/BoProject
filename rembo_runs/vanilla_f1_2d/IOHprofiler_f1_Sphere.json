@@ -1,0 +1,20 @@
+{
+	"version": "0.3.18", 
+	"suite": "unknown_suite", 
+	"function_id": 1, 
+	"function_name": "Sphere", 
+	"maximization": false, 
+	"algorithm": {"name": "rembo", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 2,
+		"path": "data_f1_Sphere/IOHprofiler_f1_DIM2.dat",
+		"runs": [
+			{"instance": 1, "evals": 20, "best": {"evals": 10, "y": 0.4304720358574724, "x": [-0.3582570934989436, -0.9178831434534263]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 0.9383984440408998, "x": [0.40999910794767114, -0.20093029941243765]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 0.34292461304548977, "x": [-0.22199471533034565, -0.8140251594123833]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 6, "y": 1.262548314306508, "x": [0.3715267646874788, -0.03945839169332278]}},
+			{"instance": 1, "evals": 20, "best": {"evals": 4, "y": 0.44956812752541014, "x": [0.16906833522237535, -0.49155032067728316]}}
+		]}
+	]
+}
